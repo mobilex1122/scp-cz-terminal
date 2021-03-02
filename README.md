@@ -10,7 +10,9 @@ program se spouští pomocí: scp-terminal.bat
 jakoukoliv chybu prosím hlašte.
 
 
+
 užijte si program.
+
 
 všechna práva patří tvůrcum a uživatelům stránky http://scp-cs.wikidot.com/
 

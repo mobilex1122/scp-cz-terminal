@@ -1,0 +1,8 @@
+---------------------------------------
+loadscp : načte scp které chceš    
+help : zobrazí příkazy             
+info : zobrazí informace o programu
+scplist : zobrazí list všech scp v databázy
+objecttypes : informace o objektech
+exit : ukončí program
+---------------------------------------

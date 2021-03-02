@@ -1,0 +1,63 @@
+-------------.
+Třídy Objektů|
+-------------'
+
+--------------
+Základní Třídy
+--------------
+||
+Tohle jsou nejběžnější Třídy Objektů používané u SCP, a tvoří většinu objektů.
+||
+||
+Safe
+----
+Třída objektů Safe jsou anomálie, kterým dobře rozumíme a jsou naprosto, nebo spolehlivě zadrženy natrvalo a nepředstavují žádné riziko, pokud nejsou jejich vlastnosti úmyslně aktivovány. 
+To že je anomálie klasifikována jako Safe však neznamená, že zacházení s ní, či aktivace jejích vlastností není rizikem a personál musí být neustále upozorňován, že veškeré Speciální Zadržovací Procedury se musí dodržovat.
+||
+||
+Euclid
+------
+Objekty Třídy Euclid nejsou dostatečně prozkoumané, nebo jsou zkrátka nepředvídatelné, takže spolehlivé zadržení objektu není vždy možné, ale nejsou tak nebezpečné, aby byly klasifikovány jako Keter. 
+Velká většina anomálií katalogovaných a zadržovaných v Nadaci je zprvu zařazena jako Euclid, dokud nejsou dostatečně prozkoumány, nebo neprojeví nebezpečné vlastnosti, aby byly přeřazeny.
+||
+Poznámka: Každé SCP, které je autonomní, uvědomělé a/nebo inteligentní je většinou klasifikované jako Euclid, kvůli své nepředvídatelnosti, neboť může samo jednat nebo myslet.
+||
+||
+Keter
+-----
+Třída Keter slouží k označení anomálií, které představují skutečné hrozby pro zabezpečení Nadačního personálu a zbytku lidstva a buď vyžadují rozsáhlé, komplexní procedury k zadržení, nebo je nelze plně zastavit i přes veškerou technologii a znalosti Nadace. 
+Tyto anomálie jsou obecně považovány za nejnebezpečnější v Nadační správě a veškerý výzkum je prováděn za účelem nalezení spolehlivějšího zbůsobu zadržování těchto anomálií, nebo jako poslední možnost neutralizace, či zničení anomálie.
+||
+||
+Thaumiel
+--------
+Objekty Třídy Thaumiel jsou vysoce utajované a extrémně vzácné anomálie, které Nadace používá, aby mohla čelit efektům jiných velmi nebezpečných anomálií, většinou objektů třídy Keter. Pouhá existence objektů Třídy Thaumiel je tajná pro všechny kromě nejvyšších úrovní Nadace a to včetně jejich lokací, funkce a aktuálního stavu, ví o nich tedy pouze velmi málo lidí kromě Rady O5.
+||
+||
+Neutralized
+-----------
+Anomálie, které již nejsou anomální, ať už protože byly záměrně nebo omylem zničeny, vypnuty, nebo již nevykazují žádné známky anomálních efektů.
+||
+||
+--------------------------
+Nestandardní Třídy Objektů
+--------------------------
+Následující Třídy Objektů jsou pod-třídy, které doplňují základní (nebo bývalou) klasifikaci objektu.
+||
+||
+Explained
+---------
+Vysvětleným anomáliím je kompletně a plně porozuměno do bodu, kdy je můžeme vysvětlit standardní vědou, byly vyvráceny jako falešné, či jako popletená klasifikace, nebo jsou tak rozšířené a známé, že zajištění je nemožné.
+||
+||
+Ezoterické/Narativní Třídy
+--------------------------
+Ezoterické Třídy Objektů, taky příležitostně nazývány jako Narativní Třídy, jsou Třídy Objektů, které nespadají do žádné ze sekcí výše. 
+Jsou většinou použité pouze jednou a jsou vytvořeny k vyložení narativy u konkrétního SCP. 
+Je vysoce doporučeno, že SCP použijí jedno ze základní Třídy Objektů uvedeny zde. Zatímco někteří dělají výjimky těmto pravidlům, jsou velmi vzácně udělané a je nutné zdůvodnit jejich existenci a umístnění. 
+Mnoho členů stránky to hodnotí nestandardní Třídy Objektů negativně, pokud jsou použity bez vysvětlení.
+||
+||
+Decommissioned
+--------------
+Vyřazená SCP je Třída Objektů, která byla používaná vyššími zaměstnanci v minulosti nejen k smazání nežádoucích článků, ale i k umístnění na jakousi "Stěnu Hanby" jako příklad toho, co nedělat.

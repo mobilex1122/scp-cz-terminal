@@ -12,7 +12,7 @@ jakoukoliv chybu prosím hlašte.
 
 užijte si program.
 
-všechna práva patří tvůrcum a uživatelům stránky [http://scp-cs.wikidot.com/
+všechna práva patří tvůrcum a uživatelům stránky http://scp-cs.wikidot.com/
 
 
 jakékoliv kopírování tohoto programu bez uvedení zdroje "http://scp-cs.wikidot.com/" se počítá za nelegální!!

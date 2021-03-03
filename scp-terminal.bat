@@ -7,15 +7,30 @@ echo ---------------------------------------------------------------------------
 echo doporučení vývojáře: zvědšete toto okno na celou obrazovku pro lepší zobrazení.
 echo -------------------------------------------------------------------------------
 pause
+:reslogin
+color 0e
 cls
+echo ------
+echo Login (je to fake login můžete tam napsat co chcete.)
+echo ------
+echo name:
+set /p name= ):
+echo password:
+set /p password= ):
+if "%name%" == "" goto error
+if "%password%" == "" goto error
+echo loging in. Please wait.
+ping 127.0.0.1 -n 3 > nul
+cls
+
 :sl
 for /f "tokens=*" %%a in (main.txt) do (
 	echo %%a
 	ping 127.0.0.1 -n 1 > nul
 )
-color 0e
+echo welcome %name%
 :start
-set /p input=command:
+set /p input=):
 echo loading command: %input%
 ping 127.0.0.1 -n 2 > nul
 
@@ -39,6 +54,7 @@ goto start
 :scp
 set input == 0
 cls
+echo type scp number:
 set /p input=scp:
 if %input% == 001 color 0c
 for /f "tokens=*" %%a in (scp-%input%.data) do (
@@ -76,3 +92,16 @@ for /f "tokens=*" %%a in (objecttypes.txt) do (
 	ping 127.0.0.1 -n 1 > nul
 )
 goto start
+
+:error
+cls
+color 0c
+echo -----
+echo error
+echo -----
+echo no password or login name!!
+echo do you want login again? (y,n):
+set /p ans= ):
+if "%ans%" == "y" goto reslogin
+if "%ans%" == "n" exit
+goto error
